@@ -4,7 +4,8 @@ class Mobiles
 {
 	HashMap<String,ArrayList<String>> mobiles = new HashMap<>();
 	Mobiles(){}
-	public ArrayList<String>
+	public int xyz()
 	{
+		return 0;
 	}
 }
